@@ -1,2 +1,4 @@
 # course
 for youssef
+
+## notes
